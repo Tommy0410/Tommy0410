@@ -8,7 +8,7 @@
 
 - 🎓 I am a **student of the Bachelor's Degree in ICT Systems Engineering 💻.**
 - 🌱 I'm currently learning **Web development and Python**. 
-- 🤔 My hobbies are **listen music 🎵 and play games🎮♟**.
+- 🤔 My hobbies are **listen music 🎵 and play games♟**.
 - 📝 Coming soon...**[Website with proyects](https://vibrantfix.github.io/blog/)**
 - 💬 If you have any questions, **just ask me**.
 
